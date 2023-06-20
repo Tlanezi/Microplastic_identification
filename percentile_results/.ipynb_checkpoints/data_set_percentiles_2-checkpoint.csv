@@ -1,0 +1,15 @@
+MPs,nilre_filter_Red_component_percentile_50th,nilre_filter_ Red_ component_percentile_90th,nilre_filter_Green_component_percentile_50th,nilre_filter_ Green_ component_percentile_90th,nilre_filter_Blue_component_percentile_50th,nilre_filter_ Blue_ component_percentile_90th,DAPI_filter_Red_component_percentile_50th,DAPI_filter_ Red_ component_percentile_90th,DAPI_filter_Green_component_percentile_50th,DAPI_filter_ Green_ component_percentile_90th,DAPI_filter_Blue_component_percentile_50th,DAPI_filter_ Blue_ component_percentile_90th,FITC_filter_Red_component_percentile_50th,FITC_filter_ Red_ component_percentile_90th,FITC_filter_Green_component_percentile_50th,FITC_filter_ Green_ component_percentile_90th,FITC_filter_Blue_component_percentile_50th,FITC_filter_ Blue_ component_percentile_90th
+OM,3.0,10.0,0.0,0.0,0.0,0.0,6.0,14.0,11.0,20.0,17.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0
+PA,102.0,178.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PA6,4.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,39.0,41.0,61.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0
+PE,42.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,187.0,220.0,29.0,34.0
+PE100,64.0,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,186.0,195.0,29.0,30.0
+PE102,63.0,68.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,154.0,173.0,24.0,27.0
+pet,209.0,241.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0,60.0,74.0,95.0,0.0,0.0,0.0,0.0,0.0,0.0
+petmono,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,47.0,73.0,75.0,0.0,0.0,0.0,0.0,0.0,0.0
+PLA,113.0,152.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,33.0,43.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0
+PP,0.0,0.0,0.0,0.0,34.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,165.0,172.0,25.0,27.0
+PP1,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,162.0,190.0,25.0,29.0
+PS,251.0,254.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,54.0,1.0,8.0
+PVC,36.0,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+PSf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75.0,79.0,120.0,126.0,0.0,0.0,0.0,0.0,0.0,0.0
